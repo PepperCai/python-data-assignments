@@ -2,7 +2,7 @@
 # Assignment 1 -- Data collection and ideation
 ## Indroduction
 ### Topic
-  - The lips information of JD
+  - The lips' information of JD
 ### Data source
   - https://search.jd.com/Search?keyword=%E5%8F%A3%E7%BA%A2&enc=utf-8&suggest=2.def.0.V06&wq=kouhonh&pvid=c5e71b804b694a15b4dbed761f185d571
 ### Data fields (type, sample data); 
