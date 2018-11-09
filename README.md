@@ -11,6 +11,6 @@
   - ```Comment``` - String. e.g. ```14万+条评价```
   - ```Shop``` - String. e.g. ```MAC魅可海外自营专区```
   - ```Icons``` - String. e.g. ```自营```
-  - The result is in [Result.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/Result.csv)
-  - The codes is in [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb)
+  - The result is in [Result.csv](https://github.com/PepperCai/python-data-assignments/blob/master/assignment1.csv)
+  - The codes is in [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/PepperCai/python-data-assignments/blob/master/assignment1.ipynb)
 
